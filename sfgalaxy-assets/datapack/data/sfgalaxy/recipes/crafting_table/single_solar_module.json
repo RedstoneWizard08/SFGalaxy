@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "SSS",
+    "WWW"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "sfgalaxy:blue_solar_wafer"
+    },
+    "W": {
+      "item": "sfgalaxy:aluminum_wire"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:single_solar_module",
+    "count": 2
+  }
+}

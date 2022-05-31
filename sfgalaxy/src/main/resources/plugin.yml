@@ -1,0 +1,9 @@
+name: SFGalaxy
+author: RedstoneWizard08
+description: A Slimefun4 addon heavily inspired by Galacticraft.
+main: net.nosadnile.sfgalaxy.SFGalaxy
+website: https://github.com/Slimefun/Addon-Template
+version: 0.1.0
+api-version: 1.18
+depend:
+    - Slimefun

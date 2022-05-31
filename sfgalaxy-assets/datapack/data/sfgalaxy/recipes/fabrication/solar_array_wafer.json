@@ -1,0 +1,10 @@
+{
+  "type": "sfgalaxy:fabrication",
+  "ingredient": {
+    "item": "sfgalaxy:solar_dust"
+  },
+  "result": {
+    "item": "sfgalaxy:solar_array_wafer",
+    "count": 3
+  }
+}

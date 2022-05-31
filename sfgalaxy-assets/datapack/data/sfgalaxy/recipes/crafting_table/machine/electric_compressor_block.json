@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "SCS",
+    "WFW"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "C": {
+      "item": "sfgalaxy:compressed_copper"
+    },
+    "W": {
+      "item": "sfgalaxy:aluminum_wire"
+    },
+    "F": {
+      "item": "sfgalaxy:advanced_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:electric_compressor",
+    "count": 1
+  }
+}

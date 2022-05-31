@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sfgalaxy:block/hard_venus_rock"
+  }
+}

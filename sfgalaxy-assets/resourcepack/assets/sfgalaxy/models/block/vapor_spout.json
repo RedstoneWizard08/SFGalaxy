@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "sfgalaxy:block/vapor_spout_block_top",
+    "down": "sfgalaxy:block/soft_venus_rock",
+    "north": "sfgalaxy:block/soft_venus_rock",
+    "south": "sfgalaxy:block/soft_venus_rock",
+    "east": "sfgalaxy:block/soft_venus_rock",
+    "west": "sfgalaxy:block/soft_venus_rock",
+    "particle": "sfgalaxy:block/soft_venus_rock"
+  }
+}

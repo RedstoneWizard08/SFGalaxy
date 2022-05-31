@@ -1,0 +1,18 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "sfgalaxy:compressed_iron"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_steel",
+    "count": 1
+  }
+}

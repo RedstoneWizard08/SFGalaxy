@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:aluminum_ingots"
+    },
+    {
+      "tag": "c:aluminum_ingots"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_aluminum",
+    "count": 1
+  }
+}

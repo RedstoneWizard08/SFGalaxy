@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "SCS",
+    "SFS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "C": {
+      "item": "sfgalaxy:copper_canister"
+    },
+    "F": {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:refinery",
+    "count": 1
+  }
+}

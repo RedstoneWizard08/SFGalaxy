@@ -1,0 +1,7 @@
+{
+  "parent": "sfgalaxy:block/glass_fluid_pipe/glass_fluid_pipe_side_base",
+  "textures": {
+    "particle": "sfgalaxy:block/glass_fluid_pipe/purple",
+    "color":    "sfgalaxy:block/glass_fluid_pipe/purple"
+  }
+}

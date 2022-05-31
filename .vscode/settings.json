@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/bukkit-plugin.json": "file:///workspace/SFGalaxy/src/main/resources/plugin.yml"
+    },
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "nuxt.isNuxtApp": false
+}

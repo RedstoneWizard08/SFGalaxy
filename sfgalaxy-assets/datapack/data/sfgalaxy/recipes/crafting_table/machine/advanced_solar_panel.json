@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "SPS",
+    "WAW"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "F": {
+      "item": "sfgalaxy:full_solar_panel"
+    },
+    "P": {
+      "item": "sfgalaxy:steel_pole"
+    },
+    "W": {
+      "item": "sfgalaxy:heavy_sealable_aluminum_wire"
+    },
+    "A": {
+      "item": "sfgalaxy:advanced_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:advanced_solar_panel"
+  }
+}

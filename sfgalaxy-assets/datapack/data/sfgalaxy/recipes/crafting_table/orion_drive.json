@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond_ore"
+    },
+    "B": {
+      "item": "minecraft:lapis_ore"
+    },
+    "C": {
+      "item": "minecraft:gold_ore"
+    },
+    "D": {
+      "item": "minecraft:redstone_ore"
+    },
+    "E": {
+      "item": "sfgalaxy:beam_core"
+    },
+    "F": {
+      "item": "minecraft:coal_ore"
+    },
+    "G": {
+      "item": "sfgalaxy:moon_cheese_ore"
+    },
+    "H": {
+      "item": "sfgalaxy:desh_ore"
+    },
+    "I": {
+      "item": "sfgalaxy:ilmenite_ore"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:orion_drive",
+    "count": 1
+  }
+}

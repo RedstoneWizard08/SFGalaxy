@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AGA",
+    "GGG",
+    "AGA"
+  ],
+  "key": {
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:vacuum_glass_strong",
+    "count": 5
+  }
+}

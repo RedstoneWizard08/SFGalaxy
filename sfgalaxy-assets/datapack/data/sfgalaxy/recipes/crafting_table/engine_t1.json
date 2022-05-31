@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " FB",
+    "PTP",
+    "PVP"
+  ],
+  "key": {
+    "P": {
+      "item": "sfgalaxy:heavy_plating"
+    },
+    "T": {
+      "item": "sfgalaxy:tin_canister"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:engine_t1"
+  }
+}

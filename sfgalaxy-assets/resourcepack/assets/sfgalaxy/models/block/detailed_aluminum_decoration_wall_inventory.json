@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sfgalaxy:block/detailed_aluminum_decoration_side",
+    "wall_bot": "sfgalaxy:block/detailed_aluminum_decoration_top",
+    "wall_top": "sfgalaxy:block/aluminum_decoration"
+  }
+}

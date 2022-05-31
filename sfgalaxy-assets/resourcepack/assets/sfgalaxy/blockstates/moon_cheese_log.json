@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "sfgalaxy:block/moon_cheese_log"
+    },
+    "axis=z": {
+      "model": "sfgalaxy:block/moon_cheese_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "sfgalaxy:block/moon_cheese_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

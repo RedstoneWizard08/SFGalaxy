@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "LIL",
+    " L "
+  ],
+  "key": {
+    "I": {
+      "item": "sfgalaxy:compressed_iron"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:buggy_wheel"
+  }
+}

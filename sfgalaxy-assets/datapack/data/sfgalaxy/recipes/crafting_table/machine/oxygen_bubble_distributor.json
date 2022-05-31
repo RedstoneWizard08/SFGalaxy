@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "VAV",
+    "SFS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "F": {
+      "item": "sfgalaxy:oxygen_fan"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    },
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_bubble_distributor",
+    "count": 1
+  }
+}

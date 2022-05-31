@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L  ",
+    "LL ",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:titanium_decoration"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:titanium_decoration_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "WWW",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:single_solar_module"
+    },
+    "W": {
+      "item": "sfgalaxy:aluminum_wire"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:full_solar_panel"
+  }
+}

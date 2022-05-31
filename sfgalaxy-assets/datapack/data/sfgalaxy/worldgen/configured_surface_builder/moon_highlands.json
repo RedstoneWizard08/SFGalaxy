@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "sfgalaxy:moon_turf"
+    },
+    "under_material": {
+      "Name": "sfgalaxy:moon_dirt"
+    },
+    "underwater_material": {
+      "Name": "sfgalaxy:moon_dirt"
+    }
+  },
+  "type": "minecraft:default"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "PTP",
+    "PPP"
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_titanium"
+    },
+    "P": {
+      "item": "sfgalaxy:glass_fluid_pipe"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:pipe_walkway",
+    "count": 5
+  }
+}

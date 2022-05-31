@@ -1,0 +1,67 @@
+#   SFGalaxy's researches,
+#   each follows the same structure:
+#   [name]:
+#     id: [id]
+#     cost: [levels]
+researches:
+    # The existence of the Milky Way and its
+    # planets. Defaults:
+    # id => 130, cost => 16
+    galaxy_milkyway:
+        id: 130
+        cost: 16
+    # The existence of the other galaxies and their
+    # planets. Defaults:
+    # id => 131, cost => 27
+    galaxy_other:
+        id: 131
+        cost: 27
+    # Gear crafting recipes and tiers.
+    # Defaults: id => 132, cost => 10
+    gear:
+        id: 132
+        cost: 10
+    # The first tier of rockets.
+    # Defaults: id => 133, cost => 12
+    rocket_tier1:
+        id: 133
+        cost: 12
+    # The second tier of rockets.
+    # Defaults: id => 134, cost => 13
+    rocket_tier2:
+        id: 134
+        cost: 13
+    # The third tier of rockets.
+    # Defaults: id => 135, cost => 14
+    rocket_tier3:
+        id: 135
+        cost: 14
+    # The fourth tier of rockets.
+    # Defaults: id => 136, cost => 15
+    rocket_tier4:
+        id: 136
+        cost: 15
+    # The fifth tier of rockets.
+    # Defaults: id => 137, cost => 16
+    rocket_tier5:
+        id: 137
+        cost: 16
+    # The sixth (electric) tier of rockets.
+    # Defaults: id => 138, cost => 17
+    rocket_electric:
+        id: 138
+        cost: 17
+    # SFGalaxy's machines and crafting recipes.
+    # Defaults: id => 139, cost => 14
+    machines:
+        id: 139
+        cost: 14
+
+# SFGalaxy's options
+options:
+    # Whether or not to enable the auto-updater.
+    # Default: true
+    auto_update: true
+    # Whether or not to allow creative items to
+    # be craftable in survival. Default: false
+    craftable_creative_items: false

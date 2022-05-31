@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MFM",
+    "SAS",
+    "MFM"
+  ],
+  "key": {
+    "M": {
+      "item": "sfgalaxy:meteoric_iron_ingot"
+    },
+    "F": {
+      "item": "sfgalaxy:oxygen_fan"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    },
+    "A": {
+      "item": "sfgalaxy:advanced_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:fluid_manipulator"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "sfgalaxy:fabrication",
+  "ingredient": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "item": "sfgalaxy:blue_solar_wafer",
+    "count": 9
+  }
+}

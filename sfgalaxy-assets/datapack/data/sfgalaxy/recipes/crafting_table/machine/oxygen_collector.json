@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "FTV",
+    "ACA"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "F": {
+      "item": "sfgalaxy:oxygen_fan"
+    },
+    "T": {
+      "item": "sfgalaxy:tin_canister"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    },
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    },
+    "C": {
+      "item": "sfgalaxy:oxygen_concentrator"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_collector",
+    "count": 1
+  }
+}

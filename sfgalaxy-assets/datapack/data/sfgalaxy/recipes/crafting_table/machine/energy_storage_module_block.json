@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "BBB",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "B": {
+      "item": "sfgalaxy:battery"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:energy_storage_module",
+    "count": 1
+  }
+}

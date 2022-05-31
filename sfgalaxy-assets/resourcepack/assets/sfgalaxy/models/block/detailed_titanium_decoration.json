@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "sfgalaxy:block/detailed_titanium_decoration_top",
+    "up": "sfgalaxy:block/titanium_decoration",
+    "north": "sfgalaxy:block/detailed_titanium_decoration_side",
+    "south": "sfgalaxy:block/detailed_titanium_decoration_side",
+    "west": "sfgalaxy:block/detailed_titanium_decoration_side",
+    "east": "sfgalaxy:block/detailed_titanium_decoration_side",
+    "particle": "sfgalaxy:block/detailed_titanium_decoration_side"
+  }
+}

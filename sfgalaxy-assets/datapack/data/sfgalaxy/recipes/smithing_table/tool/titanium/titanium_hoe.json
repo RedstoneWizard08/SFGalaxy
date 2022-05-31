@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "sfgalaxy:desh_hoe"
+  },
+  "addition": {
+    "item": "sfgalaxy:compressed_titanium"
+  },
+  "result": {
+    "item": "sfgalaxy:titanium_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "sfgalaxy:desh_ingot"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:desh_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sfgalaxy:block/tin_decoration",
+    "top": "sfgalaxy:block/tin_decoration",
+    "side": "sfgalaxy:block/tin_decoration"
+  }
+}

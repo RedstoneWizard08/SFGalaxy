@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sfgalaxy:block/tin_ladder",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "sfgalaxy:block/tin_ladder"
+    },
+    "facing=south": {
+      "model": "sfgalaxy:block/tin_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sfgalaxy:block/tin_ladder",
+      "y": 270
+    }
+  }
+}

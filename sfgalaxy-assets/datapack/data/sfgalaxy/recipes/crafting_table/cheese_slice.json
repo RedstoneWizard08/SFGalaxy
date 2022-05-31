@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:moon_cheese_block"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:cheese_slice",
+    "count": 6
+  }
+}

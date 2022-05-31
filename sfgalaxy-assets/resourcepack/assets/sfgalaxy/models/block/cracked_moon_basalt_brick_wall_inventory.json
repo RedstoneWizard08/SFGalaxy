@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "sfgalaxy:block/cracked_moon_basalt_brick"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sfgalaxy:block/moon_rock",
+    "top": "sfgalaxy:block/moon_rock",
+    "side": "sfgalaxy:block/moon_rock"
+  }
+}

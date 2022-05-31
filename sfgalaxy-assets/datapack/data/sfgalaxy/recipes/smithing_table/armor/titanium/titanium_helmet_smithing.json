@@ -1,0 +1,13 @@
+{
+  "type": "smithing",
+  "base": {
+    "item": "sfgalaxy:desh_helmet"
+  },
+  "addition": {
+    "item": "sfgalaxy:compressed_titanium"
+  },
+  "result": {
+    "item": "sfgalaxy:titanium_helmet",
+    "count": 1
+  }
+}

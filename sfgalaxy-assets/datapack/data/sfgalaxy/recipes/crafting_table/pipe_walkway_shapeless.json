@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:walkway"
+    },
+    {
+      "item": "sfgalaxy:glass_fluid_pipe"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:pipe_walkway",
+    "count": 1
+  }
+}

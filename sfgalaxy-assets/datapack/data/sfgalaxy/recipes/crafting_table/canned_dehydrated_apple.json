@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "C": {
+      "item": "sfgalaxy:tin_canister"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:canned_dehydrated_apple"
+  }
+}

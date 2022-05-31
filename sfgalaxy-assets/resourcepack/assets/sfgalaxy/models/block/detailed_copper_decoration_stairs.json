@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sfgalaxy:block/detailed_copper_decoration_side",
+    "top": "sfgalaxy:block/detailed_copper_decoration_top",
+    "side": "sfgalaxy:block/detailed_copper_decoration_side"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:burger_bun"
+    },
+    {
+      "item": "sfgalaxy:beef_patty"
+    },
+    {
+      "item": "sfgalaxy:cheese_slice"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:cheeseburger",
+    "count": 1
+  }
+}

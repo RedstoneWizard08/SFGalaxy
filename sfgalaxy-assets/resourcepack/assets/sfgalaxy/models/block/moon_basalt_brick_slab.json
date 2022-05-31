@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sfgalaxy:block/moon_basalt_brick",
+    "top": "sfgalaxy:block/moon_basalt_brick",
+    "side": "sfgalaxy:block/moon_basalt_brick"
+  }
+}

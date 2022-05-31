@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sfgalaxy:block/glowstone_wall_torch"
+    },
+    "facing=south": {
+      "model": "sfgalaxy:block/glowstone_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "sfgalaxy:block/glowstone_wall_torch",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "sfgalaxy:block/glowstone_wall_torch",
+      "y": 270
+    }
+  }
+}

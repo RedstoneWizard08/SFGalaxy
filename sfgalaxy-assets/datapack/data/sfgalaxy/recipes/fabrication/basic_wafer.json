@@ -1,0 +1,10 @@
+{
+  "type": "sfgalaxy:fabrication",
+  "ingredient": {
+    "item": "minecraft:redstone_torch"
+  },
+  "result": {
+    "item": "sfgalaxy:basic_wafer",
+    "count": 3
+  }
+}

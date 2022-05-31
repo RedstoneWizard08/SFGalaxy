@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "HEH",
+    "MWM"
+  ],
+  "key": {
+    "H": {
+      "item": "sfgalaxy:heavy_plating"
+    },
+    "E": {
+      "item": "sfgalaxy:electric_furnace"
+    },
+    "M": {
+      "item": "sfgalaxy:meteoric_iron_ingot"
+    },
+    "W": {
+      "item": "sfgalaxy:advanced_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:electric_arc_furnace",
+    "count": 1
+  }
+}

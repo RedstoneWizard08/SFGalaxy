@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ANA",
+    "ACA",
+    "AWA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:aluminum_ingots"
+    },
+    "N": {
+      "item": "minecraft:anvil"
+    },
+    "C": {
+      "tag": "c:copper_ingots"
+    },
+    "W": {
+      "item": "sfgalaxy:basic_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:compressor",
+    "count": 1
+  }
+}

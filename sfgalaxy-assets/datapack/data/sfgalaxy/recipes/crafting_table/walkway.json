@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    " T ",
+    "   "
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_titanium"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:walkway",
+    "count": 5
+  }
+}

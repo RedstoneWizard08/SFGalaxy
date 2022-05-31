@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:detailed_tin_decoration"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:detailed_tin_decoration_wall",
+    "count": 6
+  }
+}

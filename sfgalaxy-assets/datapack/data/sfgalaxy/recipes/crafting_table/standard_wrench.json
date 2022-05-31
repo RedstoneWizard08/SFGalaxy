@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    " B ",
+    "B  "
+  ],
+  "key": {
+    "B": {
+      "item": "sfgalaxy:compressed_bronze"
+    },
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:standard_wrench"
+  }
+}

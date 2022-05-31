@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:desh_ingot"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:desh_nugget",
+    "count": 9
+  }
+}

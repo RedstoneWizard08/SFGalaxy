@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:iron_ingots"
+    },
+    {
+      "tag": "c:iron_ingots"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_iron",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    "TS"
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_tin"
+    },
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_vent",
+    "count": 1
+  }
+}

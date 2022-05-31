@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:heavy_duty_chestplate",
+    "count": 1
+  }
+}

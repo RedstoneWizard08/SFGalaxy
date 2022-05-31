@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC"
+  ],
+  "key": {
+    "C": {
+      "item": "sfgalaxy:thermal_cloth"
+    },
+    "D": {
+      "item": "sfgalaxy:desh_ingot"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:thermal_cloth_t2"
+  }
+}

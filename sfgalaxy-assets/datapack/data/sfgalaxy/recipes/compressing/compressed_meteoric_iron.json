@@ -1,0 +1,12 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:meteoric_iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_meteoric_iron",
+    "count": 1
+  }
+}

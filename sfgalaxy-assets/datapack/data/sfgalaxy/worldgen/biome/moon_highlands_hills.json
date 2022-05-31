@@ -1,0 +1,70 @@
+{
+  "depth": 0.8,
+  "scale": 0.02,
+  "downfall": 0.0,
+  "temperature": 2.0,
+  "precipitation": "none",
+  "category": "none",
+  "effects": {
+    "music": {
+      "sound": "sfgalaxy:music.music_moon",
+      "min_delay": 1200,
+      "max_delay": 3600,
+      "replace_current_music": true
+    },
+    "sky_color": 0,
+    "fog_color": 1447445,
+    "water_color": 4013374,
+    "water_fog_color": 4802890
+  },
+  "surface_builder": "sfgalaxy:moon_highlands",
+  "carvers": {
+    "air": [
+      "sfgalaxy:moon_craters",
+      "sfgalaxy:moon_highlands_cave",
+      "sfgalaxy:moon_canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "sfgalaxy:disk_moon_basalt",
+      "sfgalaxy:ore_tin_moon",
+      "sfgalaxy:ore_cheese_moon"
+    ],
+    [],
+    [],
+    []
+  ],
+  "starts": [
+    "sfgalaxy:moon_village",
+    "sfgalaxy:moon_pillager_base"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "sfgalaxy:evolved_zombie",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 5
+      },
+      {
+        "type": "sfgalaxy:evolved_creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 5
+      }
+    ],
+    "creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": true
+}

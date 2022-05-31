@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:copper_ingots"
+    },
+    {
+      "tag": "c:copper_ingots"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_copper",
+    "count": 1
+  }
+}

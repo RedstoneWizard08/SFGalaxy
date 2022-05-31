@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "S S",
+    "MLM"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "sfgalaxy:meteoric_iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "M": {
+      "item": "sfgalaxy:sensor_lens"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:sensor_glasses"
+  }
+}

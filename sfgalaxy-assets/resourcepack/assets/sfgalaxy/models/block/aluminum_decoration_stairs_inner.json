@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sfgalaxy:block/aluminum_decoration",
+    "top": "sfgalaxy:block/aluminum_decoration",
+    "side": "sfgalaxy:block/aluminum_decoration"
+  }
+}

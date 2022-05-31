@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sfgalaxy:block/meteoric_iron_decoration",
+    "top": "sfgalaxy:block/detailed_meteoric_iron_decoration_top",
+    "side": "sfgalaxy:block/detailed_meteoric_iron_decoration_side"
+  }
+}

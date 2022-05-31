@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:compressed_copper"
+    },
+    {
+      "item": "sfgalaxy:compressed_tin"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_bronze",
+    "count": 1
+  }
+}

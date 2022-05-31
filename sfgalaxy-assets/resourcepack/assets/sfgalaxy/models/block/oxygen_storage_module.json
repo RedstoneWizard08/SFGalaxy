@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "sfgalaxy:block/machine",
+    "down": "sfgalaxy:block/machine",
+    "north": "sfgalaxy:block/oxygen_storage_module_8",
+    "south": "sfgalaxy:block/oxygen_storage_module_8",
+    "east": "sfgalaxy:block/machine",
+    "west": "sfgalaxy:block/machine",
+    "particle": "sfgalaxy:block/machine"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SAS",
+    "ACA",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "B": {
+      "item": "sfgalaxy:compressed_bronze"
+    },
+    "C": {
+      "item": "sfgalaxy:oxygen_concentrator"
+    },
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_compressor",
+    "count": 1
+  }
+}

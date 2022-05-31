@@ -1,0 +1,6 @@
+{
+  "parent": "sfgalaxy:block/vine_model",
+  "textures": {
+    "cross": "sfgalaxy:block/poisonous_cavernous_vine_1"
+  }
+}

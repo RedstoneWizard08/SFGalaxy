@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "sfgalaxy:legacy_music_disc_mars",
+        "sfgalaxy:legacy_music_disc_mimas",
+        "sfgalaxy:legacy_music_disc_orbit",
+        "sfgalaxy:legacy_music_disc_spacerace"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L  ",
+    "LL ",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:mars_cobblestone"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:mars_cobblestone_stairs",
+    "count": 4
+  }
+}

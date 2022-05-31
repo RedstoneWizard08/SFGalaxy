@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    " D ",
+    " S "
+  ],
+  "key": {
+    "D": {
+      "item": "sfgalaxy:desh_ingot"
+    },
+    "S": {
+      "item": "sfgalaxy:desh_stick"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:desh_sword",
+    "count": 1
+  }
+}

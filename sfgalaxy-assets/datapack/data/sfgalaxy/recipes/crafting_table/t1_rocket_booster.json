@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MYM",
+    "MFM",
+    "HVH"
+  ],
+  "key": {
+    "M": {
+      "item": "sfgalaxy:compressed_meteoric_iron"
+    },
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    },
+    "F": {
+      "item": "sfgalaxy:fuel_bucket"
+    },
+    "H": {
+      "item": "sfgalaxy:heavy_plating"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:engine_t1booster"
+  }
+}

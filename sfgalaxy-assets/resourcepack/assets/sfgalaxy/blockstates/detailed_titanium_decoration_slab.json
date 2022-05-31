@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sfgalaxy:block/detailed_titanium_decoration_slab"
+    },
+    "type=top": {
+      "model": "sfgalaxy:block/detailed_titanium_decoration_slab_top"
+    },
+    "type=double": {
+      "model": "sfgalaxy:block/detailed_titanium_decoration"
+    }
+  }
+}

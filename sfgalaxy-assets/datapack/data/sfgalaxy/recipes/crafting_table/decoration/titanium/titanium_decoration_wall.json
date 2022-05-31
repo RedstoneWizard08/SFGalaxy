@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:titanium_decoration"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:titanium_decoration_wall",
+    "count": 6
+  }
+}

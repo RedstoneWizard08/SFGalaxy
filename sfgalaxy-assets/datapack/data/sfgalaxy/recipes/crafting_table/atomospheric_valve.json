@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DVD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "sfgalaxy:desh_ingot"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:atmospheric_valve",
+    "count": 1
+  }
+}

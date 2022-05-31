@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:raw_meteoric_iron"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:throwable_meteor_chunk"
+  }
+}

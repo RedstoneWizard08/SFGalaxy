@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "sfgalaxy:block/machine",
+    "down": "sfgalaxy:block/machine",
+    "north": "sfgalaxy:block/electric_compressor",
+    "south": "sfgalaxy:block/machine_power_input",
+    "east": "sfgalaxy:block/machine_side",
+    "west": "sfgalaxy:block/machine_side",
+    "particle": "sfgalaxy:block/machine"
+  }
+}

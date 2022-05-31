@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "WTW",
+    "WWW"
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_titanium"
+    },
+    "W": {
+      "item": "sfgalaxy:aluminum_wire"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:wire_walkway",
+    "count": 5
+  }
+}

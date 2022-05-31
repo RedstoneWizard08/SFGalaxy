@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    "IT",
+    "I "
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:heavy_duty_axe"
+  }
+}

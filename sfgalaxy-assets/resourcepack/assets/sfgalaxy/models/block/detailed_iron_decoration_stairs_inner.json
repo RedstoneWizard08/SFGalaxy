@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sfgalaxy:block/detailed_iron_decoration_side",
+    "top": "sfgalaxy:block/detailed_iron_decoration_top",
+    "side": "sfgalaxy:block/detailed_iron_decoration_side"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "IRI",
+    "DBD"
+  ],
+  "key": {
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    },
+    "I": {
+      "item": "sfgalaxy:compressed_iron"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "D": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "sfgalaxy:basic_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:frequency_module"
+  }
+}

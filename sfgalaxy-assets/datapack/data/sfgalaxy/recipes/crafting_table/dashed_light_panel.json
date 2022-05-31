@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    " T "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:glass_pane"
+    },
+    "G": {
+      "item": "sfgalaxy:glowstone_torch"
+    },
+    "T": {
+      "item": "sfgalaxy:compressed_steel"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:dashed_light_panel",
+    "count": 1
+  }
+}

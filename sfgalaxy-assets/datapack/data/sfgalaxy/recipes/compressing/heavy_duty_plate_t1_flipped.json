@@ -1,0 +1,22 @@
+{
+  "type": "sfgalaxy:compressing_shaped",
+  "pattern": [
+    "SAB",
+    "SAB"
+  ],
+  "key": {
+    "B": {
+      "item": "sfgalaxy:compressed_bronze"
+    },
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    },
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:heavy_plating",
+    "count": 1
+  }
+}

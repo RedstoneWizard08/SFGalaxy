@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XIX"
+  ],
+  "key": {
+    "I": {
+      "item": "sfgalaxy:aluminum_wire"
+    },
+    "X": {
+      "item": "sfgalaxy:tin_decoration"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:sealable_aluminum_wire",
+    "count": 1
+  }
+}

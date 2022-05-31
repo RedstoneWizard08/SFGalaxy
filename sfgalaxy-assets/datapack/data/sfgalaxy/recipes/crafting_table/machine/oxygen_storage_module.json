@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "TTT",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "T": {
+      "item": "sfgalaxy:large_oxygen_tank"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_storage_module",
+    "count": 1
+  }
+}

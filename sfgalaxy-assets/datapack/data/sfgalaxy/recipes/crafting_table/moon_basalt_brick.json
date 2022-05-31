@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LL",
+    "LL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:moon_basalt"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:moon_basalt_brick",
+    "count": 4
+  }
+}

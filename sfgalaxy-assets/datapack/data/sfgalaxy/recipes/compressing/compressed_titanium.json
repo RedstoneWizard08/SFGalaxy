@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:titanium_ingot"
+    },
+    {
+      "item": "sfgalaxy:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:compressed_titanium",
+    "count": 1
+  }
+}

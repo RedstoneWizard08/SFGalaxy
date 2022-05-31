@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    " IS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "I": {
+      "item": "sfgalaxy:compressed_iron"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:buggy_seat"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NTN",
+    "NNN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "T": {
+      "item": "sfgalaxy:glowstone_torch"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:glowstone_lantern"
+  }
+}

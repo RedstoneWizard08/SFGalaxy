@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "AFA",
+    "AWA"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:copper_ingots"
+    },
+    "A": {
+      "tag": "c:aluminum_ingots"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "W": {
+      "item": "sfgalaxy:aluminum_wire"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:coal_generator",
+    "count": 1
+  }
+}

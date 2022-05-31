@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L  ",
+    "LL ",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "sfgalaxy:steel_decoration"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:steel_decoration_stairs",
+    "count": 4
+  }
+}

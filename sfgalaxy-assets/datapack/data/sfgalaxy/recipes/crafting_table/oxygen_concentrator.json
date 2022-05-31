@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "STS",
+    "TCT",
+    "SVS"
+  ],
+  "key": {
+    "T": {
+      "item": "sfgalaxy:compressed_tin"
+    },
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "C": {
+      "item": "sfgalaxy:tin_canister"
+    },
+    "V": {
+      "item": "sfgalaxy:oxygen_vent"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_concentrator",
+    "count": 1
+  }
+}

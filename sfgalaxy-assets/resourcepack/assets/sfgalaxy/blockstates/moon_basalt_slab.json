@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sfgalaxy:block/moon_basalt_slab"
+    },
+    "type=top": {
+      "model": "sfgalaxy:block/moon_basalt_slab_top"
+    },
+    "type=double": {
+      "model": "sfgalaxy:block/moon_basalt"
+    }
+  }
+}

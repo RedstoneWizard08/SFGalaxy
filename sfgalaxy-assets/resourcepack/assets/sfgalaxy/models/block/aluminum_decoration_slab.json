@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "sfgalaxy:block/aluminum_decoration",
+    "top": "sfgalaxy:block/aluminum_decoration",
+    "side": "sfgalaxy:block/aluminum_decoration"
+  }
+}

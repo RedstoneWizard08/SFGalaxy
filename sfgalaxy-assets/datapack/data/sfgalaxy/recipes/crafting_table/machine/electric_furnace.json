@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SFS",
+    "AWA"
+  ],
+  "key": {
+    "S": {
+      "item": "sfgalaxy:compressed_steel"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "A": {
+      "item": "sfgalaxy:compressed_aluminum"
+    },
+    "W": {
+      "item": "sfgalaxy:basic_wafer"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:electric_furnace",
+    "count": 1
+  }
+}

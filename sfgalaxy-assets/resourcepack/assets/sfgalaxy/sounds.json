@@ -1,0 +1,206 @@
+{
+  "music.music_moon": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/cheese",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/farlands",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/scary_ambience",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/spacerace",
+        "stream": true
+      }
+    ]
+  },
+  "music.music_credits": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/credits",
+        "stream": true
+      }
+    ]
+  },
+  "music.music_orbit": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/orbit",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/farlands",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/spacerace",
+        "stream": true
+      }
+    ]
+  },
+  "music.music_mars": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/mars",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/gravity",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/spacerace",
+        "stream": true
+      },
+      {
+        "name": "sfgalaxy:music/scary_ambience",
+        "stream": true
+      }
+    ]
+  },
+  "player.unlockchest": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:player/unlockchest",
+        "stream": false
+      }
+    ]
+  },
+  "player.parachute": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:player/parachute",
+        "stream": false
+      }
+    ]
+  },
+  "player.openairlock": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:player/openairlock",
+        "stream": false
+      }
+    ]
+  },
+  "player.closeairlock": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:player/closeairlock",
+        "stream": false
+      }
+    ]
+  },
+  "entity.slime_death": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/slime_death",
+        "stream": false
+      }
+    ]
+  },
+  "entity.ooh": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/ooh",
+        "stream": false
+      }
+    ]
+  },
+  "entity.ouch": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/ouch",
+        "stream": false
+      }
+    ]
+  },
+  "entity.bosslaugh": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/bosslaugh",
+        "stream": false
+      }
+    ]
+  },
+  "entity.bossdeath": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/bossdeath",
+        "stream": false
+      }
+    ]
+  },
+  "entity.astrominer": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:entity/astrominer",
+        "stream": false
+      }
+    ]
+  },
+  "ambience.singledrip": {
+    "sounds": [
+      "sfgalaxy:ambience/singledrip1",
+      "sfgalaxy:ambience/singledrip2",
+      "sfgalaxy:ambience/singledrip3",
+      "sfgalaxy:ambience/singledrip4",
+      "sfgalaxy:ambience/singledrip5",
+      "sfgalaxy:ambience/singledrip6",
+      "sfgalaxy:ambience/singledrip7",
+      "sfgalaxy:ambience/singledrip8"
+    ]
+  },
+  "ambience.scaryscape": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:ambience/scaryscape",
+        "stream": false
+      }
+    ]
+  },
+  "shuttle.shuttle": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:shuttle/shuttle",
+        "stream": false
+      }
+    ]
+  },
+  "music.legacy.mars": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/legacy/mars",
+        "stream": true
+      }
+    ]
+  },
+  "music.legacy.mimas": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/legacy/mimas",
+        "stream": true
+      }
+    ]
+  },
+  "music.legacy.orbit": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/legacy/orbit",
+        "stream": true
+      }
+    ]
+  },
+  "music.legacy.spacerace": {
+    "sounds": [
+      {
+        "name": "sfgalaxy:music/legacy/spacerace",
+        "stream": true
+      }
+    ]
+  }
+}

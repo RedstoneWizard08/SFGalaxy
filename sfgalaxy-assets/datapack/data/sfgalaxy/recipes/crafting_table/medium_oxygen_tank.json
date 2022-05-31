@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW",
+    "TT",
+    "CC"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:orange_wool"
+    },
+    "T": {
+      "item": "sfgalaxy:tin_canister"
+    },
+    "C": {
+      "item": "sfgalaxy:compressed_tin"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:medium_oxygen_tank",
+    "count": 1
+  }
+}

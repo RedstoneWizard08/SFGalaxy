@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "sfgalaxy:block/oxygen_collector",
+    "down": "sfgalaxy:block/oxygen_collector",
+    "north": "sfgalaxy:block/oxygen_collector",
+    "south": "sfgalaxy:block/oxygen_collector",
+    "east": "sfgalaxy:block/oxygen_collector",
+    "west": "sfgalaxy:block/oxygen_collector",
+    "particle": "sfgalaxy:block/oxygen_collector"
+  }
+}

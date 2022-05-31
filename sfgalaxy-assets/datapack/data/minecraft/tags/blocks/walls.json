@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "sfgalaxy:tin_decoration_wall",
+    "sfgalaxy:copper_decoration_wall",
+    "sfgalaxy:bronze_decoration_wall",
+    "sfgalaxy:steel_decoration_wall",
+    "sfgalaxy:titanium_decoration_wall",
+    "sfgalaxy:iron_decoration_wall",
+    "sfgalaxy:aluminum_decoration_wall",
+    "sfgalaxy:meteoric_iron_decoration_wall",
+
+    "sfgalaxy:detailed_tin_decoration_wall",
+    "sfgalaxy:detailed_copper_decoration_wall",
+    "sfgalaxy:detailed_bronze_decoration_wall",
+    "sfgalaxy:detailed_steel_decoration_wall",
+    "sfgalaxy:detailed_titanium_decoration_wall",
+    "sfgalaxy:detailed_iron_decoration_wall",
+    "sfgalaxy:detailed_aluminum_decoration_wall",
+    "sfgalaxy:detailed_meteoric_iron_decoration_wall",
+
+    "sfgalaxy:mars_cobblestone_wall",
+    "sfgalaxy:moon_rock_wall",
+    "sfgalaxy:cobbled_moon_rock_wall",
+    "sfgalaxy:moon_basalt_wall",
+    "sfgalaxy:moon_basalt_brick_wall"
+  ]
+}

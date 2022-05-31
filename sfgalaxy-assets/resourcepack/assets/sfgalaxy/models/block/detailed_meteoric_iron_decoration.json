@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "sfgalaxy:block/detailed_meteoric_iron_decoration_top",
+    "up": "sfgalaxy:block/meteoric_iron_decoration",
+    "north": "sfgalaxy:block/detailed_meteoric_iron_decoration_side",
+    "south": "sfgalaxy:block/detailed_meteoric_iron_decoration_side",
+    "west": "sfgalaxy:block/detailed_meteoric_iron_decoration_side",
+    "east": "sfgalaxy:block/detailed_meteoric_iron_decoration_side",
+    "particle": "sfgalaxy:block/detailed_meteoric_iron_decoration_side"
+  }
+}

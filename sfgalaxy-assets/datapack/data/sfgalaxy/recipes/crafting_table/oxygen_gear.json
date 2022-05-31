@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PCP",
+    "P P"
+  ],
+  "key": {
+    "C": {
+      "item": "sfgalaxy:oxygen_concentrator"
+    },
+    "P": {
+      "item": "sfgalaxy:glass_fluid_pipe"
+    }
+  },
+  "result": {
+    "item": "sfgalaxy:oxygen_gear"
+  }
+}

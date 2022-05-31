@@ -1,0 +1,15 @@
+{
+  "type": "sfgalaxy:compressing_shapeless",
+  "ingredients": [
+    {
+      "item": "sfgalaxy:heavy_plating"
+    },
+    {
+      "item": "sfgalaxy:compressed_meteoric_iron"
+    }
+  ],
+  "result": {
+    "item": "sfgalaxy:heavy_plating_t2",
+    "count": 1
+  }
+}
