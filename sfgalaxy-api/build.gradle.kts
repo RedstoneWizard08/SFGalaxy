@@ -11,3 +11,7 @@ dependencies {
     
     implementation("com.google.guava:guava:31.1-jre")
 }
+
+tasks.named("clean") { mustRunAfter(":sfgalaxy-assets:clean") }
+tasks.named("build") { mustRunAfter(":sfgalaxy-assets:build") }
+tasks.named("shadowJar") { mustRunAfter(":build") }

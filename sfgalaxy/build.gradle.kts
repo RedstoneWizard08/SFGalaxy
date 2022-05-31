@@ -10,3 +10,7 @@ dependencies {
     implementation("com.google.guava:guava:31.1-jre")
     implementation(project(":sfgalaxy-api"))
 }
+
+tasks.named("clean") { mustRunAfter(":sfgalaxy-api:clean") }
+tasks.named("build") { mustRunAfter(":sfgalaxy-api:build") }
+tasks.named("shadowJar") { mustRunAfter(":sfgalaxy-api:shadowJar") }
